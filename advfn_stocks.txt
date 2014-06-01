@@ -1,0 +1,527 @@
+AAC	
+Accelr8	AXK	
+Acme United	ACU	
+Adams Resources	AE	
+Adcare Health Systems	ADK	
+Adherex	ADH	
+Advanced Photonix	API	
+Adventrx	ANX	
+Aerocentury	ACY	
+Aerosonic	AIM	
+Alexco Resource Corp	AXU	
+Allied Defense	ADG	
+Allied Nevada Gold Corp	ANV	
+Almaden	AAU	
+Alpha Pro	APT	
+Alpha Security Grp. Corp.	HDS	
+Alyst Acquisition Corp	AYA	
+Amcon	DIT	
+Amdl	ADL	
+American Apparel Inc	APP	
+American Biltrite	ABL	
+American Community Properties	APO	
+American Israeli Paper	AIP	
+American Oil & Gas	AEZ	
+American Shared Hospital Service	AMS	
+American Spectrum	AQQ	
+Amerivest	AMV	
+Ampex	AXC	
+Analex	NLX	
+Anooraq	ANO	
+Antares	AIS	
+Apex Silver Mines	SIL	
+Apollo Gold	AGT	
+Arcadia Resources	KAD	
+Argan Inc.	AGX	
+Arrhythmia	HRT	
+Asia Time Corp	TYM	
+Aspyra	APY	
+Atlas Acquisition Holdings Corp	AXG	
+Augusta Resource Corp.	AZC	
+Aurizon Mines	AZK	
+Aurora Oil Gas Corp.	AOG	
+Austral Pacific	AEN	
+Avalon	AWX	
+Axesstel	AFT
+B H Ocean Carrier	BHO	
+Baker Michael	BKR	
+Baldwin	BLD	
+Ballantyne of Omaha	BTN	
+Bancorp of New Jersey Inc.	BKJ	
+Bank America Corp	SHR	
+Banks.com	BNX	
+Banro	BAA	
+Bar Harbor Bankshrs	BHB	
+Barnwell	BRN	
+Beverly National Corp.	BNV	
+Birks & Mayors	BMJ	
+Black Rock Ca Invest	RAA	
+Black Rock Fl Invest	RFA	
+Black Rock Nj Invest	RNJ	
+Black Rock Ny Invest	RNY	
+Blackrock Broad	BCT	
+Blackrock Cal Mun Ii	BCL	
+Blackrock Maryland Municipal Bond	BZM	
+Blackrock Municipal Income Trust	BLE	
+Blackrock New Jersey Municipal Bond	BLJ	
+Blackrock Ny Muni Ii	BFY	
+Blackrock Pa St Muni	BPS	
+Blackrock Va Muni Bd	BHV	
+Blonder Tongue	BDR	
+Bmb Munai	KAZ	
+Boots & Coots	WEL	
+Bovie	BVX	
+Bowl America	BWL.A	
+Bpw Acquisition Corp	BPW	
+Bpz Resources	BPZ	
+Br S & P Ql Rk Glb Eq	BQY	
+Breeze-eastern Corp.	BZC	
+British American Tobacco	BTI
+C C A	CAW	
+C P I Aerostructures	CVU	
+Cabeltel	GBR	
+Cagles	CGL.A	
+Canadian Superior	SNG	
+Canargo	CNR	
+Cano	CFW	
+Caraco	CPD	
+Cardero	CDY	
+Cardium Therapeutics	CXM	
+Cash Technologies	TQ	
+Castle Brands	ROX	
+Cavalier Homes	CAV	
+Ce Franklin	CFK	
+Cel Sci	CVM	
+Centerplate	CVP	
+Central Goldtrust	GTU	
+Central Securities	CET	
+Cf Texas Inst Sequin	CXZ	
+Cgf Best Buy Elks	EBY	
+Challenger Energy Corp	CHQ	
+Chase	CCF	
+Cheniere	LNG	
+Chicago Rivet Mach	CVR	
+China Green Agriculture	CGA	
+China Healthcare Acquisition Corp	CHM	
+China Holdings Acquisition Corp.	HOL	
+China Shen Zhou Mining Resources	SHZ	
+China Shenghuo Pharmaceutical Holdings	KUN	
+Chromcraft Revington	CRC	
+Cibt Education Grp. Inc.	MBA	
+Citigroup	EPC	
+Citigroup S & P500 Prin Nts 8/05	ASB	
+Citigroup Tiers S & P	SPO	
+Ckx Lands	CKX	
+Claimsnet	CLA	
+Clark Holdings	GLA	
+Claude Resources	CGR	
+Claymore U.s. Capital Markets Bond	UBD	
+Claymore Us-1 - the Capital Markets	UEM	
+Coast Distribution	CRV	
+Coffee	JVA	
+Columbus Acquisition Corp.	BUS	
+Comforce	CFS	
+Command Security Corp.	MOC	
+Community Bankers Trust Corp.	BTC	
+Competitive Technologies	CTT	
+Computerized Thermal Imaging	CIO	
+Cons Tomoka Land	CTO	
+Contango Oil & Gas	MCF	
+Continuecare	CNU	
+Contl Materials	CUO	
+Core Molding	CMT	
+Corriente Resources (new)	ETQ	
+Cortex Pharm	COR	
+Crusader Energy Grp. Inc.	KRU	
+Crystallex	KRY	
+Cubic Energy Inc.	QBC	
+Cuisine Solutions	FZN	
+Cycle Country	ATC	
+Cytomedix	GTF	
+Daxor	DXR	
+Decorator	DII	
+Deerfield Capital Corp	DFR	
+Dejour Enterprises Ltd	DEJ	
+Dekania Corp	DEK	
+Delta Apparel	DLA	
+Denison Mines Corp	DNN	
+Dgse Companies	DGC	
+Digital Power	DPW	
+Digitalfx International Inc.	DXN	
+Document Security	DMC	
+Dreams	DRJ	
+Dreyfus Muni Income	DMF	
+Dry Clean Usa	DCU	
+Dune Energy	DNE
+Eagle Broadband	EAG	
+Eastern	EML	
+Eaton Vance California Municipal	CEV	
+Eaton Vance Fl Sbi	FEV	
+Eaton Vance Massachusetts Municipal	MMV	
+Eaton Vance Michigan Municipal Income	EMI	
+Eaton Vance New Jersey Municipal	EVJ	
+Eaton Vance Ny Sbi	EVY	
+Eaton Vance Ohio Municipal Income	EVO	
+Eaton Vance Pa Sbi	EVP	
+Eldorado Gold	EGO	
+Elecsys	ASY	
+Electric City	ELC	
+Elite Pharmaceuticals	ELI	
+Elixir Gaming Technologies	EGT	
+Emergent Grp. Inc.	LZR	
+Emerson Radio	MSN	
+Empire Resources	ERS	
+Endeavor	END	
+Endeavour Silver Corp	EXK	
+Energy Services of America Corp.	ESA	
+Engex	EGX	
+Enova Systems	ENA	
+Entree Gold	EGI	
+Environmmtl Tectonic	ETC	
+Espey	ESP	
+Ever-glory International Grp.	EVK	
+Evolution Petroleum Corp.	EPM	
+Exeter Resource Corp.	XRA	
+Express-1 Expedited Solutions	XPO	
+Fab Industries	FIT	
+Female Health Company (the)	FHC	
+Fieldpoint	FPP	
+First W.virginia Bk	FWV	
+Five Star Qual Care	FVE	
+Flanigans Enterprise	BDL	
+Flexible Solutions	FSI	
+Florida Public	FPU	
+Fortune Diversified	FFI	
+Fountain Power	FPB	
+Franklin Publishing	FEP	
+Franklin Street	FSP	
+Franklin Templeton	FTF	
+Fredericks of Hollywood Grp.	FOH	
+Friedman	FRD	
+Frischs Resturants	FRS	
+Fronteer Dev	FRG	
+Full House Resorts	FLL	
+Fusion Telecom	FSN	
+G S E	GVP	
+Gabelli G,nr &	GGN	
+Gabelli Global Utility Income Trust	GLU	
+Gainsco	GAN	
+Gasco	GSX	
+Gastar	GST	
+Gen Employment Enter	JOB	
+General Moly	GMO	
+Genesis Energy	GEL	
+Geneva Acquisition Corp.	GAC	
+Geoglobal Resources	GGR	
+Geokinetics Inc.	GOK	
+Geopetro Resources Company	GPR	
+Ghl Acquisition Corp.	GHQ	
+Global Brands Acquisition Corp.	GQN	
+Global Consumer Acquisition Corp	GHC	
+Global Energy Holdings Grp. Inc.	GNH	
+Global Entertainment	GEE	
+Globalscape	GSB	
+Globetel Comms	GTE	
+Gold Reserve	GRZ	
+Golden Pond Healthcare	GPH	
+Golden Star	GSS	
+Goldfield	GV	
+Golf Trust of America	GTA	
+Gorman Rupp	GRC	
+Graham	GHM	
+Great Basin Gold Ltd	GBG	
+Green Builders	GBH	
+Greenhunter Energy	GRH	
+Grupo Simec	SIM	
+Gsc Acquisition Company	GGA	
+Gulfstream International Grp.	GIA	
+H M G Courtland	HMG	
+Halifax	HX	
+Hallwood	HWG	
+Hanover Cap Mortgage	HCM	
+Harold Stores	HLD	
+Hawk	HWK	
+Hearusa	EAR	
+Hemispherx	HEB	
+Herald National Bank	HNB	
+Hi Shear	HSR	
+Hicks Acquisition Company I	TOH	
+Highlands Acquisition Corp	HIA	
+Hkn	HKN	
+Hong Kong Highpower Technology Inc.	HPJ	
+Hooper Holmes	HH	
+Hq Sustainable Maritime Industries	HQS	
+Hungarian Telephone	HTC	
+Hyperdynamics	HDY	
+Hythiam	HTM	
+I G I	IG	
+Ia Global	IAO	
+Ideation Acquisition Corp	IDI	
+Ilinc Comm	ILC	
+Ilx Resorts	ILX	
+Ima Exploration	IMR	
+Imergent	IIG	
+Immtech	IMM	
+Imperial Oil	IMO	
+Implant Sciences	IMX	
+Income Op Rl	IOT	
+Innsuites Hospitality	IHT	
+Inovio	INO	
+Insite Vision	ISV	
+Intelli-check	IDN	
+Intelligent Systems	INS	
+Inter-atlantic Financial Inc.	IAN	
+Interleukin Genetics	ILI	
+International Absorbents	IAX	
+International Royalty Corp.	ROY	
+Interoil	IOC	
+Intersearch Grp.	IGO	
+Interstate General	IGC	
+Inverness Medical	IMA	
+Investors Capital	ICH	
+Invitel Holdings a/s	IHO	
+Inx	ISR	
+Iparty	IPT	
+Isco	ISO	
+Isolagen	ILE	
+Iteris	ITI	
+Ivax Diagnostics	IVD	
+Javelin Pharmaceuticals	JAV	
+Jed Oil	JDO	
+Jennifer Convertibles	JEN	
+Jesup Lamont	JLI	
+Kbl Healthcare Acquisition Corp Iii	KHA	
+Keegan Resources Inc.	KGN	
+Kimber	KBX	
+Kodiak Oil Gas Corp	KOG	
+Kowabunga!	KOW	
+La Barge	LB	
+Ladenburg Thalmann	LTS	
+Lannett	LCI	
+Lazare Kaplan	LKI	
+Liberty Acquisition Holdings Corp.	LIA	
+Lodgian	LGN	
+Lucas Energy Inc.	LEI	
+Lynch	LGL	
+Mad Catz Interactive	MCZ	
+Mag Silver Corp	MVG	
+Maine & Maritimes	MAM	
+Man Sang	MHJ	
+Mass Health & Education	MHE	
+Mastech Holdings	MHH	
+Maxxam	MXM	
+Mbf Healthcare Acquisition Corp.	MBH	
+Media Entertainment Holdings	TVH	
+Medicsight	MGT	
+Mercantile Bancorp	MBR	
+Merrill Lynch	BJT	
+Merrimac	MRM	
+Metalico	MEA	
+Metalline Mining Company	MMG	
+Metropolitan Health	MDF	
+Mexco	MXC	
+Mfs California Insured Municipal	CCA	
+Midsouth Bancorp	MSL	
+Midway Gold Corp	MDW	
+Minco Gold Corp.	MGH	
+Minefinders	MFN	
+Mines	MGN	
+Minnesota Municipal Income Portfolio	MXA	
+Minrad	BUF	
+Ml Str Ret Indl 15	DSP	
+Morgan Stanley Dw Bridges R2000	EST	
+Morgan Stanley Dw Pharma Boxes	RXB	
+Mountain Province	MDM	
+National Health Realty	NHR	
+National Healthcare	NHC	
+National Lampoon	NLN	
+Nbc Capital	NBY	
+Neostem	NBS	
+Nephros	NEP	
+Neuralstem Inc.	CUR	
+Nevada Gold & Casino	UWN	
+Nevsun	NSU	
+New Dragon Asia Cp A	NWD	
+New England D	NEN	
+New Gold	NGD	
+Nivs Intellimedia Technology Grp.	NIV	
+North American Palla	PAL	
+Northern Dynasty Mnl	NAK	
+Northern Oil Gas	NOG	
+Northgate Minerals L	NXG	
+Nova Biosource Fuels	NBF	
+Novadel	NVD	
+Novagold Resources I	NG	
+Nrdc Acquisition Corp	NAQ	
+Ntn Buzztime	NTN	
+Ntr Acquisition	NTQ	
+Nts Realty Holdings Limited Partnership	NLP	
+Nuveen Insured Massachusetts Tax-free	NGX	
+Nuveen Missouri Premium Income Municipal	NOM	
+Nuveen Pennsylvania	NPN	
+Oceanaut	OKN	
+Oilsands Quest	BQI	
+On2	ONT	
+Opko Health	OPK	
+Orchids Paper Prod	TIS	
+Orezone	OZN	
+Orleans Homebuilders	OHB	
+Orsus Xelent Technologies	ORS	
+Overhill Farms	OFI	
+Pacific Booker Minerals	PBM	
+Pacific Office Properties Trust	PCE	
+Pacific Rim Mining	PMU	
+Palatin	PTN	
+Paragon	PTG	
+Paramount Gold and Silver Corp	PZG	
+Park National	PRK	
+Paxson Commun	PAX	
+Peace Arch	PAE	
+Petrocorp	PEX	
+Pharmathene	PIP	
+Phoenix Footwear	PXG	
+Pinnacle Data Sys In	PNS	
+Pioneer Diversified High Income Trust	HNW	
+Pioneer Drilling	PDC	
+Pitts W Virginia Rr	PW	
+Platinum Grp. Metals Ltd	PLG	
+Plus	PLM	
+Pma Cap 8.5 Sr Nts	PMK	
+Pmc Commercial Sbi	PCC	
+Polaris Acquisition Corp.	TKP	
+Premium Mandatory	CQP	
+Pres Rlty Cp	PDL.B	
+Pres Rlty Cp	PDL.A	
+Pro	PRW	
+Procera Networks	PKT	
+Proliance	PLI	
+Prospect Medical	PZZ	
+Protalix Biotherapeutics	PLX	
+Proterion	PRC	
+Pyramid Oil Company	PDO	
+Q Comm	QMM	
+Quantum Grp. (the)	QGP	
+Quest	QCC	
+R E L M Wireless	RWC	
+Rae	RAE	
+Reading	RDI	
+Reading	RDI.B	
+Ready Mix	RMX	
+Regenerx Biopharm In	RGN	
+Renaissance Acquisition Corp	RAK	
+Renasant	PHC	
+Rentech	RTK	
+Retractable Tech	RVP	
+Rexahn Pharmaceuticals	RNN	
+Richmont Mines	RIC	
+Riviera	RIV	
+Roberts	RPI	
+Rubicon Minerals Cor	RBY	
+S L Industries	SLI	
+S.y. Bancorp	SYI	
+Saga Comm	SGA	
+Salisbury Bancorp	SAL	
+Samson Oil Gas Limited	SSN	
+Santa Monica Media Corp.	MEJ	
+Sapphire Industrials Corp	FYR	
+Scolr Pharma	DDD	
+Seaboard	SEB	
+Seabridge Gold	SA	
+Senesco	SNT	
+Servotronics	SVT	
+Sifco	SIF	
+Silvercorp Metals	SVM	
+Singing Machine	SMD	
+Sinovac Biotech	SVA	
+Smart Move	MVE	
+Smartpros	PED	
+Softbrands	SBN	
+Solitario Exploration Royalty Corp	XPL	
+Southern Conn Bancp	SSE	
+Southwst Georgia	SGB	
+Spark Networks	LOV	
+Sports Properties Acquisition Corp.	HMR	
+Stephan	TSC	
+Stoneleigh Partners Acquisition Corp	SOC	
+Stora Enso Oyj	SEO	
+Str Pd S & P Midcap	SMC	
+Str Pds Nas 2003-12	SFH	
+Str Prd Nasdaq100	NAS	
+Stream Global Services	OOO	
+Sulphco	SUF	
+Sunair	SNR	
+Sunlink Health	SSY	
+Supreme	STS	
+Tailwind Financial	TNF	
+Tan Range Exploratio	TRE	
+Tandy Leather Factory	TLF	
+Taseko Mines	TGB	
+Team	TMI	
+Teche	TSH	
+Tel Instrument	TIK	
+Telkonet	TKO	
+Tengasco	TGC	
+Thomas Equipment	THM	
+Tianyin Pharmaceutical Co., Inc.	TPI	
+Tiens Biotech Gr Usa	TBV	
+Timberline Resources Corp.	TLR	
+Tofu Time	TOF	
+Tompkinstrustco	TMP	
+Trans Lux	TLX	
+Trans-india Acquisition Corp.	TIL	
+Travelcenters of America Llc	TA	
+Tremisis Energy Acquisition Ii	TGY	
+Tri Valley	TIV	
+Trian Acquisition I Corp	TUX	
+Trio Tech	TRT	
+Triplecrown Acquisition Corp.	TCW	
+Tucows	TCX	
+Uluru	ULU	
+United Capital	AFP	
+United Guardian	UG	
+United Mobile	UMH	
+United Refining Energy Corp.	URX	
+Universal Insurance Holdings	UVE	
+Universal Power Grp.	UPG	
+Universal Security	UUU	
+Uqm	UQM	
+Ur-energy	URG	
+Uranerz Energy Corp.	URZ	
+Uranium Energy Corp	UEC	
+Uroplasty	UPI	
+Us Dataworks	UDW	
+Us Gold Corp.	UXG	
+Utek	UTK	
+Valuerich	IVA	
+Van Kampen Advantage Municipal Income	VKI	
+Van Kampen Mass Vlue	VMV	
+Van Kampen Sel Sectr	VKL	
+Vantage Drilling Company	VTG	
+Velocity Portfolio Grp.	PGV	
+Vermont Pure	VPS	
+Versar	VSR	
+Vicon	VII	
+Victory Acquisition Corp	VRY	
+Virnetx Holding Corp.	VHC	
+Vista Gold	VGZ	
+Wachovia Pins S & P500	TSV	
+Walter Investment Management Corp	WAC	
+Watsco	WSO.B	
+Wells Gardner Electronics	WGA	
+Wesco Financial	WSC	
+Western Goldfields Inc.	WGW	
+Westmoreland Coal	WLB	
+White River Capital	RVR	
+Widepoint Corp.	WYY	
+Wilber	GIW	
+Wilshire	WOC	
+Winland Electronics	WEX	
+Wireless Telecom	WTT	
+Wizzard Software Corp.	WZE	
+Xcorporeal Inc.	XCR	
+Xelr8 Holdings	BZI	
+Xenonics	XNN	
+Xfone	XFN	
+Ym Biosciences	YMI
+Zbb Energy Corp.	ZBB	
+Zion Oil Gas	ZN
